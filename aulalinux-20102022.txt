@@ -1,0 +1,11 @@
+Instalar software  (linux)
+ microsoft - .exe ou msi
+ 
+ google chrome - 64bits .deb
+ opera linux 
+ 
+ gdebi- dependencias
+ central de aplicativos
+ terminal - apt
+ sudo apt install
+ 
