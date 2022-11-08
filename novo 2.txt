@@ -1,0 +1,38 @@
+terminal:ctrl+alt+t- bash 
+  pedro=meu usuario
+  @    =concaternar
+  senac!!= nome do computador
+  ---------------------------
+  ~   = alias referencia ao seu home
+  $   = referencia ao usuario sem direito
+  #   = super usuario ----> root:sudo
+ ----------------------------------------
+ sudo-i ()
+ exit   (sair,atalho ctrl + D) 
+ history (historico de comando) 
+    !    (executar o comando na linha do history)
+clear    (limpar a tela,atalho ctrl + L)
+-----------------------------------------
+Pedir ajuda no Linux
+apt     (ajuda simples)
+--help(ajuda resumida do comando)
+man   (manual do comando)
+git pull (
+q     (quit)
+-----------------------------------------
+Guia foca    -PT-BR https://www.guiafoca.org
+SS64         -EN https://ss64.com/bash/
+-----------------------------------------
+Comandos de Diretorio e Arquivos
+git clone (clonar repositorio do github)
+ls        (listar arquivos ou diretorios)
+ls -lh    (modo lista detalhado)
+cd        (mudar de diretorio)
+TAB       (tabular:auto-completar)
+cd ..     (voltar um diretorio)
+git pull  (verificar mudanças no github)
+git add . (aceitar as mudanças locais)
+git commit -m "atualizaçao"
+git config global user.email "pedroobs236@gmail.com"
+git config globaluser.name "pedroobs236"
+git push
