@@ -1,0 +1,16 @@
+#Primeira etapa:   windows       GNU/linux
+                   NTFS/FAT32    EXT4
+				   Particionamento
+
+#Segunda etapa:    Windows       GNU/Linux
+Redes (TCP/IPv4)   ipconfig      ifconfig
+                   ipconfig/all  route -n
+                                 resolvect
+				   nslookup      nslookup
+				   ping          ping
+#terceira etapa:   Windows       GNU/Linux
+                                 pwd:diretorio corrente
+				   dir/ls        ls  -lh
+				   cd            cd
+				   md            mkdir
+				                 touch REDME.md
