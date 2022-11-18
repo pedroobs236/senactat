@@ -1,0 +1,28 @@
+os
+cat -n/etc/services | head -n20
+listar o conteudo do arquivo em: /etc/services das linhas:
+100 ate 200
+361= 1 ate 99:excluir
+     100 ate 200:manter(visualizar)
+	 201 ate 361:excluir
+less -q
+#comando de mover(renomear)
+mv ORIGEM DESTINO
+
+#comando de copiar
+cp -v ORIGEM E DESTINO
+
+#comando de imprimir mensagem na tela
+echo SENAC Tatuape 
+echo SENAC Tatuape > SENAC.txt
+
+#comando para listar o conteudo do arquivo
+cat -n 
+cat -n/etc/services
+#comando para listar o conteudo do arquivo,
+mas eu posso escolher as linhas 
+head -n20 /etc/services
+tail -n20 /etc/services
+
+desafio do profi ram
+
